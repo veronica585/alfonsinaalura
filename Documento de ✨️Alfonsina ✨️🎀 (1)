@@ -12,7 +12,8 @@
 
 <body>
     <header class="container text-center">
-        <img src="" alt="avatar da alfonsina" class="rounded-circle" width="130" height="160"
+        <img src="IMG_20250417_112758_008.webp
+" alt="avatar da alfonsina" class="rounded-circle" width="130" height="160"
             srcset="">
         <p class="lead">Eu sou alfonsina</p>
         <h1>Eu estudo Programação</h1>
