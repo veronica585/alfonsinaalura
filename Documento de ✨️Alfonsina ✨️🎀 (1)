@@ -12,7 +12,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.jpeg" alt="avatar do Vinicius" class="rounded-circle" width="130" height="160"
+        <img src="" alt="avatar da alfonsina" class="rounded-circle" width="130" height="160"
             srcset="">
         <p class="lead">Eu sou alfonsina</p>
         <h1>Eu estudo Programação</h1>
@@ -112,8 +112,8 @@
                         alt="Imagem representativa do projeto de uma biblioteca online">
                 </div>
                 <div class="modal-footer">
-                    <a href="https://femascheti.github.io/minhas-leituras/">Ver projeto ao vivo</a>
-                    <a href="https://github.com/femascheti/minhas-leituras">Ver código do projeto</a>
+                    <a href="https://github.com/veronica585">Ver projeto ao vivo</a>
+                    <a href="https://github.com/veronica585">Ver código do projeto</a>
                 </div>
             </div>
         </div>
@@ -157,9 +157,9 @@
                         alt="Imagem representativa do projeto de uma biblioteca online">
                 </div>
                 <div class="modal-footer">
-                    <a href="https://femascheti.github.io/tecnicas-computacionais-refletindo-sobre-ia/">Ver projeto ao
+                    <a href="https://github.com/veronica585">Ver projeto ao
                         vivo</a>
-                    <a href="https://github.com/femascheti/tecnicas-computacionais-refletindo-sobre-ia">Ver código do
+                    <a href="https://github.com/veronica585">Ver código do
                         projeto</a>
                 </div>
             </div>
