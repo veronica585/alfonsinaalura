@@ -14,11 +14,9 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.jpeg" alt="avatar do Vinicius" class="rounded-circle" width="130" height="160"
             srcset="">
-        <p class="lead">Eu sou Vinícius</p>
-        <h1>Eu ensino Programação</h1>
-        <p>Sou Professor de ciências exatas. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
-            que já desenvolvi!</p>
+        <p class="lead">Eu sou alfonsina</p>
+        <h1>Eu estudo Programação</h1>
+        <p>Sou estudante do ensino Médio na escola prof Cristino Cabral</p>
         <p>Minhas habilidades</p>
         <div>
             <p class="badge bg-secondary">HTML</p>
@@ -208,9 +206,9 @@
         <h2>Entre em contato</h2>
         <div>
             <i class="bi bi-github"></i>
-            <a href="https://github.com/vini-bertuzzo">GitHub</a>
+            <a href="https://github.com/veronica585">GitHub</a>
         </div>
-        <p class="my-5 text-center">© Copyright 2024. Produzido por Vinícius Bertuzzo</p>
+        <p class="my-5 text-center">© Copyright 2024. Produzido por alfonsina wango</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
